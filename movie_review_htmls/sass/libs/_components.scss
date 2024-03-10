@@ -284,7 +284,7 @@ ul.arrow{
 	textarea{min-height: 100px}
 	.name{@include at2x("images/icon-contact-user","png",12px,14px)}
 	.email{@include at2x("images/icon-contact-envelope","png",14px,11px)}
-	.website{@include at2x("images/icon-contact-globe","png",14px,14px)}
+	.password{@include at2x("images/icons8-password-30","png",14px,14px)}
 	.message{@include at2x("images/icon-contact-pencil","png",14px,14px)}
 	input[type="submit"]{
 		@extend .button;
